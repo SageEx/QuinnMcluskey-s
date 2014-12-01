@@ -1,4 +1,5 @@
 QuinnMcluskey-s
 ===============
 
-Impkementation of the QuinnMcluskeys reduction algorithm for 4 variables
+Implementation of the QuineMcCluskeys reduction algorithm for 4 variables
+
